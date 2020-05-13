@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HxCPfJ6o2AEWtsCzEQapQYU16h6R65YyvZefiFyCBLyN0n1G98XccAScUBKObFsOqWEQjvuVuGVAyNDcKgSZWA==",
+  "dgSpecHash": "z4gp5iz9gArsgb1hHva9wpX8Y6Mz6iRKXsOeerKLh7dx9vgmbaams2+LDw0xrkpXx2Xeb8E5amiYnROx5obZzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lauren's Computer\\source\\repos\\AzureFunctionDemo\\GithubMonitorApp\\GithubMonitorApp.csproj",
+  "projectFilePath": "C:\\Users\\Lauren's Computer\\Documents\\GitHub\\GithubMonitorApp\\AzureFunctionDemo\\GithubMonitorApp\\GithubMonitorApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lauren's Computer\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.4\\microsoft.aspnet.webapi.client.5.2.4.nupkg.sha512",
     "C:\\Users\\Lauren's Computer\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.1.0\\microsoft.aspnetcore.authentication.abstractions.2.1.0.nupkg.sha512",

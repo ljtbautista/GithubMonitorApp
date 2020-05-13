@@ -7365,11 +7365,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lauren's Computer\\source\\repos\\AzureFunctionDemo\\GithubMonitorApp\\GithubMonitorApp.csproj",
+      "projectUniqueName": "C:\\Users\\Lauren's Computer\\Documents\\GitHub\\GithubMonitorApp\\AzureFunctionDemo\\GithubMonitorApp\\GithubMonitorApp.csproj",
       "projectName": "GithubMonitorApp",
-      "projectPath": "C:\\Users\\Lauren's Computer\\source\\repos\\AzureFunctionDemo\\GithubMonitorApp\\GithubMonitorApp.csproj",
+      "projectPath": "C:\\Users\\Lauren's Computer\\Documents\\GitHub\\GithubMonitorApp\\AzureFunctionDemo\\GithubMonitorApp\\GithubMonitorApp.csproj",
       "packagesPath": "C:\\Users\\Lauren's Computer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lauren's Computer\\source\\repos\\AzureFunctionDemo\\GithubMonitorApp\\obj\\",
+      "outputPath": "C:\\Users\\Lauren's Computer\\Documents\\GitHub\\GithubMonitorApp\\AzureFunctionDemo\\GithubMonitorApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
