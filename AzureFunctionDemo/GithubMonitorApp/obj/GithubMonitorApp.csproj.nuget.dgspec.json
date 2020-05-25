@@ -44,6 +44,10 @@
             "Microsoft.NET.Sdk.Functions": {
               "target": "Package",
               "version": "[3.0.1, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.15.1, )"
             }
           },
           "imports": [

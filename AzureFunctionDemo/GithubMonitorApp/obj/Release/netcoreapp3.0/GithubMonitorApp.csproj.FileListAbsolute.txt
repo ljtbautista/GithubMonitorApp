@@ -64,3 +64,4 @@ C:\Users\Lauren's Computer\Documents\GitHub\GithubMonitorApp\AzureFunctionDemo\G
 C:\Users\Lauren's Computer\Documents\GitHub\GithubMonitorApp\AzureFunctionDemo\GithubMonitorApp\obj\Release\netcoreapp3.0\GithubMonitorApp.csproj.CopyComplete
 C:\Users\Lauren's Computer\Documents\GitHub\GithubMonitorApp\AzureFunctionDemo\GithubMonitorApp\obj\Release\netcoreapp3.0\GithubMonitorApp.dll
 C:\Users\Lauren's Computer\Documents\GitHub\GithubMonitorApp\AzureFunctionDemo\GithubMonitorApp\obj\Release\netcoreapp3.0\GithubMonitorApp.pdb
+C:\Users\Lauren's Computer\Documents\GitHub\GithubMonitorApp\AzureFunctionDemo\GithubMonitorApp\bin\Release\netcoreapp3.0\bin\SendGrid.dll

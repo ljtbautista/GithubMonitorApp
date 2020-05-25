@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "z4gp5iz9gArsgb1hHva9wpX8Y6Mz6iRKXsOeerKLh7dx9vgmbaams2+LDw0xrkpXx2Xeb8E5amiYnROx5obZzg==",
+  "dgSpecHash": "mcgYTKpS5dah+iDeJpAmIjlOX2GjEHB2QWZv+BXAz3CneshDbP2KPAv5wvx+MsOls3lP7wpmKgCNV9GsLguh+Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lauren's Computer\\Documents\\GitHub\\GithubMonitorApp\\AzureFunctionDemo\\GithubMonitorApp\\GithubMonitorApp.csproj",
   "expectedPackageFiles": [
@@ -81,6 +81,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\Lauren's Computer\\.nuget\\packages\\sendgrid\\9.15.1\\sendgrid.9.15.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",

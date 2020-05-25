@@ -7,6 +7,9 @@ using Microsoft.Azure.WebJobs.Extensions.Http;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
+using SendGrid;
+using SendGrid.Helpers.Mail;
+using System.Collections.Generic;
 
 namespace GithubMonitorApp
 {
@@ -24,6 +27,24 @@ namespace GithubMonitorApp
 
             //do something with data here
             log.LogInformation(requestBody);
+
+
+
+
+            var apiKey = System.Environment.GetEnvironmentVariable("SENDGRID_APIKEY");
+            var client = new SendGridClient(apiKey);
+            var msg = new SendGridMessage()
+            {
+                From = new EmailAddress("progress_dba@yahoo.com", "Dad"),
+                Subject = "Github Triggered",
+                PlainTextContent = "Hey it worked!",
+                HtmlContent = "<strong>Hey it worked!</strong>"
+            };
+            msg.AddTo(new EmailAddress("ljtbautista@gmail.com", "Lauren"));
+            var response = await client.SendEmailAsync(msg);
+
+
+
 
             return new OkResult();
         }

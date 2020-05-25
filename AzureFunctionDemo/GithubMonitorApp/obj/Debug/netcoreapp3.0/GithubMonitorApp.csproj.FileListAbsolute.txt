@@ -58,7 +58,6 @@ C:\Users\Lauren's Computer\Documents\GitHub\GithubMonitorApp\AzureFunctionDemo\G
 C:\Users\Lauren's Computer\Documents\GitHub\GithubMonitorApp\AzureFunctionDemo\GithubMonitorApp\bin\Debug\netcoreapp3.0\bin\Newtonsoft.Json.Bson.dll
 C:\Users\Lauren's Computer\Documents\GitHub\GithubMonitorApp\AzureFunctionDemo\GithubMonitorApp\bin\Debug\netcoreapp3.0\bin\Microsoft.WindowsAzure.Storage.dll
 C:\Users\Lauren's Computer\Documents\GitHub\GithubMonitorApp\AzureFunctionDemo\GithubMonitorApp\obj\Debug\netcoreapp3.0\GithubMonitorApp.csprojAssemblyReference.cache
-C:\Users\Lauren's Computer\Documents\GitHub\GithubMonitorApp\AzureFunctionDemo\GithubMonitorApp\obj\Debug\netcoreapp3.0\GithubMonitorApp.csproj.CoreCompileInputs.cache
 C:\Users\Lauren's Computer\Documents\GitHub\GithubMonitorApp\AzureFunctionDemo\GithubMonitorApp\obj\Debug\netcoreapp3.0\GithubMonitorApp.AssemblyInfoInputs.cache
 C:\Users\Lauren's Computer\Documents\GitHub\GithubMonitorApp\AzureFunctionDemo\GithubMonitorApp\obj\Debug\netcoreapp3.0\GithubMonitorApp.AssemblyInfo.cs
 C:\Users\Lauren's Computer\Documents\GitHub\GithubMonitorApp\AzureFunctionDemo\GithubMonitorApp\obj\Debug\netcoreapp3.0\GithubMonitorApp.csproj.CopyComplete
