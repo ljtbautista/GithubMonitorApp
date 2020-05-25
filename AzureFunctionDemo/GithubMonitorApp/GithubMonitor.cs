@@ -31,7 +31,9 @@ namespace GithubMonitorApp
 
 
 
-            var apiKey = System.Environment.GetEnvironmentVariable("SENDGRID_APIKEY");
+            //var apiKey = System.Environment.GetEnvironmentVariable("SENDGRID_APIKEY");
+
+            var apiKey = "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";
             var client = new SendGridClient(apiKey);
             var msg = new SendGridMessage()
             {
